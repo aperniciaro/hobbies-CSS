@@ -79,6 +79,25 @@ h2 {
   background-color: pink;
 }
 
-.centered-fig {
-  align-content: center;
+.fig-alpha {
+  box-sizing: border-box;
+  padding: 3.5rem;
+  background-color: white;
+}
+
+.fig-beta {
+  box-sizing: border-box;
+  padding: 4.5rem;
+  background-color: white;
+}
+
+.fig-gamma {
+  box-sizing: border-box;
+  padding: 5.5rem;
+  background-color: white;
+}
+
+h6 {
+  margin: 0.25rem;
+  font-size: 1rem;
 }
