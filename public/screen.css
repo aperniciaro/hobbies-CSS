@@ -11,3 +11,74 @@ body {
   min-height: 100%;
   background-image: url('/images/newsprint.jpg');
 }
+
+img {
+  height: 10rem;
+}
+
+figcaption {
+  font-weight: bold;
+}
+
+h1 {
+  color: blue;
+  font-size: 3rem;
+}
+
+header {
+  background-color: red;
+  font-size: 1.75rem;
+  margin: 1rem;
+  padding: 0.25rem;
+}
+
+h2 {
+  background-color: gray;
+  margin: 1.25rem;
+  padding: 0.25rem;
+}
+
+#serious-quote {
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+  background-color: fuchsia;
+  padding: 0.5rem;
+}
+
+#border-a {
+  border-color: aqua;
+  border-style: dashed;
+  border-width: 0.5rem;
+}
+
+#border-b {
+  border-color: greenyellow;
+  border-style: dotted;
+  border-width: 0.5rem;
+}
+
+#border-c {
+  border-color: orange;
+  border-style: double;
+  border-width: 0.5rem;
+}
+
+#ghost-header {
+  opacity: 0.75;
+}
+
+.green-fig {
+  background-color: green;
+}
+
+.yellow-fig {
+  background-color: yellow;
+}
+
+.pink-fig {
+  background-color: pink;
+}
+
+.centered-fig {
+  align-content: center;
+}
